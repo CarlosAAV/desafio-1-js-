@@ -56,3 +56,7 @@ article{
     flex-direction: row;
     padding-top: 15px;
 }
+
+#position p:nth-child(2){
+margin-left: 10px;
+}
